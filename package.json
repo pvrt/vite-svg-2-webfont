@@ -1,6 +1,6 @@
 {
     "name": "vite-svg-2-webfont",
-    "version": "3.4.0",
+    "version": "3.4.1",
     "description": "A vite plugin which generates a webfont out of svg icons",
     "type": "module",
     "main": "./dist/index.js",
@@ -47,7 +47,7 @@
     },
     "homepage": "https://github.com/chemiAtlow/vite-svg-2-webfont#readme",
     "peerDependencies": {
-        "vite": "^3.0.0 || ^4.0.0 || ^5.0.0"
+        "vite": "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0"
     },
     "devDependencies": {
         "@types/node": "^22.10.1",
