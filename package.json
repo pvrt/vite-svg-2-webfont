@@ -31,7 +31,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/atlowChemi/vite-svg-2-webfont"
+        "url": "git+https://github.com/pvrt/vite-svg-2-webfont"
     },
     "keywords": [
         "vite",
@@ -43,9 +43,9 @@
     "author": "Chemi Atlow",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/chemiAtlow/vite-svg-2-webfont/issues"
+        "url": "https://github.com/pvrt/vite-svg-2-webfont/issues"
     },
-    "homepage": "https://github.com/chemiAtlow/vite-svg-2-webfont#readme",
+    "homepage": "https://github.com/pvrt/vite-svg-2-webfont#readme",
     "peerDependencies": {
         "vite": "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0"
     },
